@@ -27,19 +27,19 @@ header{
 
 }
 .box1-img{
-  background-image:url(img/flow01.png);
+  background-image:url(task1-img/flow01.png);
   height:150px;
   background-position: bottom;
   background-size:cover;
 }
 .box2-img{
-  background-image:url(img/flow02.png);
+  background-image:url(task1-img/flow02.png);
   height:150px;
   background-position: bottom;
   background-size:cover;
 }
 .box3-img{
-  background-image:url(img/flow03.png);
+  background-image:url(task1-img/flow03.png);
   height:150px;
   background-position: bottom;
   background-size:cover;
